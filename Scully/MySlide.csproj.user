@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "C:\Documents and Settings\James\My Documents\Visual Studio 2003\SensePost\Scully\obj\scully\;C:\c#\scully\Scully\bin\Debug\;C:\Tools\DEV\ideas\SQL-bruting\mysql_connector_enterprise_lib_demo\demo\bin\;C:\Tools\DEV\ideas\Slide\Project\SlideForm\bin\Debug\;C:\Tools\DEV\ideas\Controls\Slide\Project\SlideForm\bin\Debug\;C:\Tools\DEV\ideas\MSSQL-Client\bin\Debug\;C:\Tools\DEV\working\Scully\Scully1.2\SlideForm\bin\Debug\;C:\Tools\DEV\ideas\SQL-bruting\MySqlUtil\MySql Connector NET SE\bin\SE\Release\;C:\c#\scully\SlideForm\bin\Debug\;C:\c#\wp-skinned\webproxy\bin\Debug\;C:\c#\scully\Scully\bin\Release\;C:\Documents and Settings\James\My Documents\Visual Studio 2003\SensePost\Scully\SlideForm\bin\Debug\;C:\Documents and Settings\James\My Documents\Visual Studio 2003\SensePost\Scully\Scully\bin\Debug\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+

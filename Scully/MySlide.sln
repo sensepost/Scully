@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySlide", "MySlide.csproj", "{B6C5DE7B-4F8D-4213-8029-4F626ED8DD99}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "..\Installer\Installer.vdproj", "{DB2BFB7A-5058-46E1-843E-16DD62A4A976}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B6C5DE7B-4F8D-4213-8029-4F626ED8DD99}.Debug.ActiveCfg = Debug|.NET
+		{B6C5DE7B-4F8D-4213-8029-4F626ED8DD99}.Debug.Build.0 = Debug|.NET
+		{B6C5DE7B-4F8D-4213-8029-4F626ED8DD99}.Release.ActiveCfg = Release|.NET
+		{B6C5DE7B-4F8D-4213-8029-4F626ED8DD99}.Release.Build.0 = Release|.NET
+		{DB2BFB7A-5058-46E1-843E-16DD62A4A976}.Debug.ActiveCfg = Debug
+		{DB2BFB7A-5058-46E1-843E-16DD62A4A976}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
